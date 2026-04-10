@@ -1,5 +1,3 @@
-Aqui está um modelo de README.md estruturado para documentar o seu notebook do Google Colab. Ele descreve objetivo, requisitos, execução e resultados de forma clara e reutilizável.
-
 Projeto: Análise de GDP e Medalhas Olímpicas
 📌 Objetivo
 Este projeto tem como objetivo analisar a relação entre o GDP médio anual das nações e o desempenho em medalhas olímpicas, agrupando os dados por continente e ano.
