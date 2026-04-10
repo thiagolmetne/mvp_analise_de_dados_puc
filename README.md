@@ -1,4 +1,7 @@
 Projeto: Análise de GDP e Medalhas Olímpicas
+
+
+
 📌 Objetivo
 Este projeto tem como objetivo analisar a relação entre o GDP médio anual das nações e o desempenho em medalhas olímpicas, agrupando os dados por continente e ano.
 O notebook explora estatísticas descritivas, visualizações (heatmaps, boxplots) e aplica técnicas de pré-processamento para preparar os dados para modelos de Machine Learning.
